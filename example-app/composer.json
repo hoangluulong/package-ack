@@ -31,7 +31,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests/"
+            "Tests\\": "tests/",
+            "Courses\\Course\\": "package-courses/course"
         }
     },
     "scripts": {

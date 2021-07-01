@@ -172,6 +172,8 @@ return [
         Foostart\Slideshow\SlideshowServiceProvider::class,
         Foostart\Filemanager\FilemanagerServiceProvider::class,
         Intervention\Image\ImageServiceProvider::class,
+
+        Courses\Course\CourseServiceProvider::class,
         /*
          * Application Service Providers...
          */

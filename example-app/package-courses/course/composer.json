@@ -1,0 +1,14 @@
+{
+    "name": "courses/course",
+    "description": "This is course (Hoang Huu Long admin hihi)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hoanghuulong",
+            "email": "hoanghuulong.krn@gamil.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
