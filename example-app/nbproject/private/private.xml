@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/HK4_2020-2021/backend2/laravel_8x/example-app/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/D:/HK4_2020-2021/backend2/laravel_8x/example-app/database/migrations/2014_10_12_100000_create_password_resets_table.php</file>
+            <file>file:/D:/HK4_2020-2021/backend2/laravel_8x/example-app/database/migrations/2021_04_10_125827_trainers.php</file>
+            <file>file:/D:/HK4_2020-2021/backend2/laravel_8x/example-app/database/seeders/Trainers.php</file>
+            <file>file:/D:/HK4_2020-2021/backend2/laravel_8x/example-app/database/seeders/Companies.php</file>
+            <file>file:/D:/HK4_2020-2021/backend2/laravel_8x/example-app/database/migrations/2019_08_19_000000_create_failed_jobs_table.php</file>
+            <file>file:/D:/HK4_2020-2021/backend2/laravel_8x/example-app/database/seeders/DatabaseSeeder.php</file>
+            <file>file:/D:/HK4_2020-2021/backend2/laravel_8x/example-app/database/migrations/2021_04_10_125814_companies.php</file>
+        </group>
+    </open-files>
+</project-private>
